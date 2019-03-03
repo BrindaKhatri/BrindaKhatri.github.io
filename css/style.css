@@ -1,0 +1,15 @@
+.my-custom-background {background: url('../img/view.jpg');
+background-repeat: no-repeat;
+background-size: cover;}
+.profile-pic{max-width: 100%;}
+.noting-hill{max-width: 50%;}
+.tower-bridge{max-width: 50%;}
+.stpaul{max-width: 50%;}
+.eye{max-width: 50%;}
+.body{background-color: #be9fea;}
+.first{background-color: #be9fea;}
+.second{background-color: #be9fea;}
+.third{background-color: #be9fea;}
+.custom-nav{background-color: #f7e62c;}
+.button{margin-top:60px;}
+.quote{color: white;}
