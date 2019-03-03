@@ -1,11 +1,11 @@
 .my-custom-background {background: url('../img/view.jpg');
 background-repeat: no-repeat;
 background-size: cover;}
-.profile-pic{max-width: 100%;}
-.noting-hill{max-width: 50%;}
-.tower-bridge{max-width: 50%;}
-.stpaul{max-width: 50%;}
-.eye{max-width: 50%;}
+.profile-pic{max-width: 100%;border-style: solid;border-color:#be9fea ;}
+.noting-hill{max-width: 50%; border-style: solid;border-color:#be9fea ;}
+.tower-bridge{max-width: 50%;border-style: solid;border-color:#be9fea ;}
+.stpaul{max-width: 50%;border-style: solid;border-color:#be9fea ;}
+.eye{max-width: 50%;border-style: solid;}
 .body{background-color: #be9fea;}
 .first{background-color: #be9fea;}
 .second{background-color: #be9fea;}
@@ -16,3 +16,8 @@ background-size: cover;}
 .desk{color: #be9fea}
 h4{font-family: 'Arvo', serif}
 .body{font-family: 'Arvo', serif}
+i{color:#f7e62c; }
+.button {background-color: #be9fea;}
+.abo{color:white; font-family: 'Arvo', serif;} 
+.hom{color:white; font-family: 'Arvo', serif;} 
+.bttn{color:white; font-family: 'Arvo', serif;}
